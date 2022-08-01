@@ -43,17 +43,17 @@
 
   <p align="center" >
  
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandraNobrega20&layout=compact&theme=dracula"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleNobrega&layout=compact&theme=dracula"/>
   
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlessandraNobrega20&theme=dracula&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AleNobrega&theme=dracula&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
   <br/>
 </p>
  
   <p align="center" >
-    <img src="https://github-profile-trophy.vercel.app/?username=AlessandraNobrega20&row=1&theme=dracula"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=AleNobrega&row=1&theme=dracula"/>
   <br/>
 </p>
 
 <hr>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AlessandraNobrega20&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AleNobrega&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
  
